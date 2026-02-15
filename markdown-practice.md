@@ -27,9 +27,9 @@ Here is a useful website for learning that I use:
 
 
 
-  | Tool   | Purpose     | Link   |
+  | Tool   | Purpose                          | Link                |
   
-|---------|-----------|----------|
+|---------|-----------------------------------|---------------------|
 
 | Github  | Version control and collaboration | (https://github.com) |
 
