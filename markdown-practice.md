@@ -28,8 +28,11 @@ Here is a useful website for learning that I use:
 
 
   | Tool   | Purpose     | Link   |
+  
 |---------|-----------|----------|
+
 | Github  | Version control and collaboration | (https://github.com) |
+
 | Python    | Programming and AI projects  | (https://www.python.org) |
 
 
