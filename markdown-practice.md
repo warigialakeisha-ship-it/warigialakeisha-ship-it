@@ -1,7 +1,14 @@
 ##My learning goals
+
+
 ###This semester
+
+
 This semester, my goal is to build a **strong foundation** in *Arttificial Intelligence* and **programming**. I want to improve my *coding skills*, build AI systems, and learn how to use `Github` for collaboration. By the end of the semester,i hope to be more confident in solving problems and creating `useful projects` ~~without fear~~.
+
 [My Github profile](https://github.com/warigialakeisha-ship-it)
+
+
 Here is a useful website for learning that I use:
 [w3shools](https://www.w3shools.com)
 ##Lists of things i want to learn
